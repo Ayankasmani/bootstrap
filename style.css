@@ -1,0 +1,83 @@
+.main{
+    background-image: url(bg-masthead.jpg);
+    width: 100%;
+    height: 100vh;
+}
+.navbar{
+width: 100%;
+height: 100vh;
+}
+button{
+    background-color: ;
+}
+.smit{
+height: 100vh;
+}
+h3{
+    margin-top
+    : 10px;
+}
+.habib{
+    font-size: 88px;
+margin-bottom: 0.25rem;
+
+}
+h3{
+    margin-bottom: 25px;
+}
+#smit{
+    margin-top: 20px;}
+#bhai{
+    height: 430px;
+    width: 1375px;
+    margin-top: 100px;
+}
+#aur{
+    padding: 20px 40px;
+    font-size: 16px;
+}
+#smit3{
+    display: flex;
+    width: 1348px;
+    height: 533px;
+    background-color: #1D8095;
+}
+#service{
+    color: #ecc207;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    padding-top: 30px;
+}
+#nav{
+    display: flex;
+position: fixed;
+background-color: #ffc108;
+
+justify-content: end;
+box-shadow: 2px 2px 2px;
+padding-top: 20px;
+padding-right: 5px;
+
+}
+#what{
+    color: aliceblue;
+display: flex;
+    font-size: 48px;
+    margin: 0px 0px 48px;
+    justify-content: center;
+}
+.phone{
+    color: aliceblue;
+    font-size: 60px;
+}
+#responsive{
+
+}
+#um{
+    color: aliceblue;
+}
+#ukl{
+color: aliceblue;
+}
